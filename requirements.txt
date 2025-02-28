@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+speechrecognition
+pyaudio
+gtts
+sqlite3
+matplotlib
+transformers
+torch
+sentencepiece
